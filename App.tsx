@@ -97,13 +97,13 @@ const App: React.FC = () => {
                   <div className="h-6 w-6 rounded-full bg-emerald-100 flex items-center justify-center flex-shrink-0 mt-0.5">
                     <span className="text-emerald-600 font-bold text-sm">1</span>
                   </div>
-                  <p className="text-slate-600">为 **10 种标准技术** (包括线性模型、AR模型、神经网络) 建立基准结果。</p>
+                  <p className="text-slate-600">为 <strong className="font-semibold text-slate-900">10 种标准技术</strong> (包括线性模型、AR模型、神经网络) 建立基准结果。</p>
                 </li>
                 <li className="flex items-start gap-3">
                   <div className="h-6 w-6 rounded-full bg-emerald-100 flex items-center justify-center flex-shrink-0 mt-0.5">
                     <span className="text-emerald-600 font-bold text-sm">2</span>
                   </div>
-                  <p className="text-slate-600">在 **5 个多样化的公开基准数据集** 上进行评估。</p>
+                  <p className="text-slate-600">在 <strong className="font-semibold text-slate-900">5 个多样化的公开基准数据集</strong> 上进行评估。</p>
                 </li>
                 <li className="flex items-start gap-3">
                   <div className="h-6 w-6 rounded-full bg-emerald-100 flex items-center justify-center flex-shrink-0 mt-0.5">
