@@ -1,0 +1,5 @@
+{
+  "name": "NLSI 基准可视化",
+  "description": "基于 Champneys 等人论文的非线性系统辨识基准结果交互式可视化。",
+  "requestFramePermissions": []
+}
